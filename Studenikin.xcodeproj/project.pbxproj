@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		003A5298292608F300CEC60F /* error.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = error.md; sourceTree = "<group>"; };
+		003A5299292618AC00CEC60F /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		00699321292520D500791569 /* Studenikin */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Studenikin; sourceTree = BUILT_PRODUCTS_DIR; };
 		00699324292520D500791569 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0069932B2925211A00791569 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
@@ -43,6 +44,7 @@
 		00699318292520D500791569 = {
 			isa = PBXGroup;
 			children = (
+				003A5299292618AC00CEC60F /* readme.md */,
 				003A5298292608F300CEC60F /* error.md */,
 				0069932B2925211A00791569 /* Readme.md */,
 				00699323292520D500791569 /* Studenikin */,
